@@ -1,9 +1,7 @@
 //
-//  CalendarView.m
-//  ZhangBen
+//  main.m
+//  TestiPhoneCal
 //
-//  Created by tinyfool on 08-10-26.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
 //
 
 #import "TdCalendarView.h"
